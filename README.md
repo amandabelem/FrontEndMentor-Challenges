@@ -1,5 +1,5 @@
 # Frontend Mentor - Order summary card
-![ScreenShot](https://{https://github.com/amandabelem/FrontEndMentor-Challenges/blob/main/images/finalizado.png})
+![ScreenShot](https://github.com/amandabelem/FrontEndMentor-Challenges/blob/main/finalizado.png)
 
 
 ## Welcome! 👋
